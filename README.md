@@ -1,1 +1,1 @@
-# configsync
+# dotsync
